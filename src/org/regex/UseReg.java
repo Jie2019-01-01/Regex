@@ -14,6 +14,8 @@ public class UseReg {
 
 	/**
 	 * 查找字符串中是否包了 runoob 子串
+	 * 查找字符串中是否包了 runoob 子串
+	 * 查找字符串中是否包了 runoob 子串
 	 */
 	@Test
 	public void demo1() {
